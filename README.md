@@ -9,11 +9,6 @@ This repository is Challenge Algorithm Problem and for recording solve.
 
 using the following This site Problem.
 
-![image](https://github.com/JH-Ko76/CodingTest/assets/72744580/74ecbcce-5cf0-4dc0-b757-9ddb910ced88)
-
-![image](https://github.com/JH-Ko76/CodingTest/assets/72744580/ba5b979f-2c62-4efc-8ae9-ddb5f506bd82)
-
-
 <a href="https://www.acmicpc.net"><img src="https://github.com/JH-Ko76/CodingTest/assets/72744580/ba5b979f-2c62-4efc-8ae9-ddb5f506bd82"/> </a>
 <a href="https://programmers.co.kr"><img src="https://github.com/JH-Ko76/CodingTest/assets/72744580/74ecbcce-5cf0-4dc0-b757-9ddb910ced88"/> </a>
 
